@@ -1,0 +1,1 @@
+LCD sends stuff to spdr -- needs to find a away to prevent this
